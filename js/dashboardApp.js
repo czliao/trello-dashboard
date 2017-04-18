@@ -22,6 +22,7 @@
 
 		$scope.selectedOrganisation = null;
 		$scope.filter = 'open';
+		$scope.useStoryPoints = null;
 
 		$scope.search = null;
 
